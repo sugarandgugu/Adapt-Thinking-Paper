@@ -1,6 +1,8 @@
 # Adapt-Thinking-Paper
 R1-Style Dual System, AdaptThink paper list
 
+[Adaptive Deep Reasoning: Triggering Deep Thinking When Needed](https://arxiv.org/abs/2505.20101)
+
 [Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](https://arxiv.org/abs/2505.15154 )
 
 Don’t Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning
